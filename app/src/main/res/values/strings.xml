@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Quote</string>
+
+    <string name="quote_formatted">~%1$s~</string>
+    <string name="get_quote">Get Quote</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="try_again">Try again</string>
+    <string name="dummy_quote">Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.</string>
+</resources>
